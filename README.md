@@ -39,8 +39,9 @@ To ensure reliable insights:
 - **Profitability:** Overall **profit margin of 3.68%**, within the typical industry range but **room for improvement** 
 ---
 
-## 📈 Dashboard / Visualizations 
-[H2 Fuel Station Sales and Performance Dashboard)(./https://github.com/Peace-Ada/H2-Fuel-Station-Sales-and-Performance-Analysis-2025-/blob/194cbdc50dd0d760f45436e4e44546a951ef01ca/FuelStationDashboard.png)
+## 📈 Dashboard / Visualizations
+
+![H2 Fuel Station Sales and Performance Dashboard)(https://github.com/Peace-Ada/H2-Fuel-Station-Sales-and-Performance-Analysis-2025-/blob/62a748ee50a442e41d447f0a7010719aefd9309b/FuelStationDashboard.png)
 
 *Visual representation of revenue trends, fuel type performance, customer segments, peak hours, and pump performance.*
 ---
