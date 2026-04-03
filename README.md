@@ -40,8 +40,7 @@ To ensure reliable insights:
 ---
 
 ## 📈 Dashboard / Visualizations
-
-![H2 Fuel Station Sales and Performance Dashboard)(https://github.com/Peace-Ada/H2-Fuel-Station-Sales-and-Performance-Analysis-2025-/blob/62a748ee50a442e41d447f0a7010719aefd9309b/FuelStationDashboard.png)
+[H2 Fuel Station Sales and Performance Dashboard) (https://github.com/Peace-Ada/H2-Fuel-Station-Sales-and-Performance-Analysis-2025-/blob/62a748ee50a442e41d447f0a7010719aefd9309b/FuelStationDashboard.png)
 
 *Visual representation of revenue trends, fuel type performance, customer segments, peak hours, and pump performance.*
 ---
